@@ -32,7 +32,7 @@ I'm Tejasram, an aspiring AI Engineer from India. Welcome to my GitHub!
 
 - Pytorch, Tensorflow and Scikit-Learn
 - Langchain, LlamaIndex and Huggingface
-- Django and React.js
+- Django, Rest Framework and React.js
 
 ## Projects
 
@@ -66,6 +66,12 @@ A project that's aimed to solve rental finding problems. Habitat Hive uses a Hab
 
 - 🌐 [Live Demo](https://hive.fosslover.dev)
 - 📁 [Repository](https://github.com/tejasram2003/habitat-hive)
+
+### Ecommerce Website (Production Grade)
+
+A production grade Ecommerce website using React.js with redux for frontend, Django Rest for backend, and simple_jwt for authentication. 
+
+- 📁 [Repository](https://github.com/tejasram2003/Ecommerce-DRF-React)
 
 ## Fun Fact
 
