@@ -36,6 +36,13 @@ I'm Tejasram, an aspiring AI Engineer from India. Welcome to my GitHub!
 
 ## Projects
 
+### Llama-Hunt
+
+A platform built using Django, Transformers and deployed on Intel Devcloud using Nginx and Gunicorn for AI based job hunting.
+
+- 🌐 [Live Demo](https://llamahunt.xyz)
+- 📁 [Repository](https://github.com/tejasram2003/llamahunt)
+
 ### Crime_hotspot_map
 
 A machine learning model that predicts how likely the current location on the map is to being a crime-zone, deployed with a map in the front end.
