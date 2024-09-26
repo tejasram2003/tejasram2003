@@ -4,8 +4,8 @@ I'm Tejasram, an aspiring AI Engineer from India. Welcome to my GitHub!
 
 ## About Me
 
-- I'm currently learning Vector Databases, REST APIs and CUDA Computing.
-- I currently pursue B.Tech in Artificial Intelligence and Datascience, and work as an NLP Engineering Intern at Augrade.
+- I'm currently learning Vector Databases, REST APIs, React and CUDA Computing.
+- I currently pursue B.Tech in Artificial Intelligence and Datascience, and work as an LLM Engineer at [Augrade](https://www.augrade.com/).
 - How to reach me: Email - tejasram03@gmail.com; Linkedin - linkedin.com/in/tejasramb/
 
 ## My Skills
